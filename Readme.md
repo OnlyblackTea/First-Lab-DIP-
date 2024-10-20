@@ -5,11 +5,22 @@
 
 
 # Installation
+1. **确保你已经安装了 Poetry**。
+2. 克隆项目仓库:
+```bash
+git clone git@github.com:OnlyblackTea/First-Lab-DIP-.git
 ```
-$ pip install -r requirements.txt
+3. 安装项目依赖
+```bash
+poetry install
+```
+4. 激活虚拟环境（可选）：
+```bash
+poetry shell
 ```
 
 # Usage
-运行ipynb
+TBD
 
 # Credits
+TBD
